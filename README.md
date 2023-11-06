@@ -12,3 +12,7 @@ It demonstrates the power of the Pandas library to perform:
 ### Visualizations of some contexts of the analysis
 #### Covid Deaths against Cases per 100000
 ![Deaths Against cases](https://github.com/ChuckJovans/TestingPD/assets/90473880/795eca36-b623-4261-9159-4faa00a53561)
+
+#### GGPlot View Covid Deaths against Cases per 100000
+![Deaths against Cases ggplot view](https://github.com/ChuckJovans/Testing-Data-Analysis-in-VS/assets/90473880/200e92d3-d5d6-49ea-8e13-220e52d47495)
+
