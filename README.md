@@ -7,4 +7,4 @@ It demonstrates the power of the Pandas library to perform:
 - Cleaning, and 
 - Preliminary analysis.
 
->The notebook is intended for those looking to practice Pandas with real-world data.
+>The notebook is intended to test the power of jupyter notebook. Other Repos will be added showcasing some of my work in Data analysis
