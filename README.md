@@ -4,7 +4,7 @@ This Jupyter notebook is **an exploration of COVID-19 data** provided by the Wor
 It demonstrates the power of the Pandas library to perform:
 
 - Data manipulation, 
-- Cleaning, and 
+- Cleaning
 - Preliminary analysis.
 
 >The notebook is intended to test the power of jupyter notebook. Other Repos will be added showcasing some of my work in Data analysis
